@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=8AEQt4CSX5U
+https://github.com/Java-Techie-jt/bdd-example
+
 # bdd-example
 How to perform behavior driven development using Cucumber
 
